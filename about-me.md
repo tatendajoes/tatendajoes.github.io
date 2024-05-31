@@ -1,5 +1,5 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
+I am a Rising Sophomore at Alabama Agricultural and Mechanical University, located in Normal, Alabama. I am pursuing a Bachelor’s degree in Electrical Engineering. My expected graduation date is in 2027. My interests include Robotics, Computer Architecture, Machine Learning, and VLSI Design. 
 
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
+[Linkedin Profile](https://www.linkedin.com/in/tatenda-joseph/)
 
