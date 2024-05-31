@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Tatenda Joseph
+by: Tatenda
 ---
 
 During the first week, I participated in a boot camp orientation. I engaged in activities that included;
