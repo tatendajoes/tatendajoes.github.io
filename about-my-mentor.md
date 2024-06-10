@@ -1,7 +1,8 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, David Nyarko, has extensive experience collaborating with Dr. Kofi Nyarko on projects focusing on robot autonomy and deep learning.
 
-[Mentor's Website](https://htilua.org/about-the-pi)
+- He has been instrumental in developing and maintaining the edge-tpu-sliva library, which improves upon the Raspberry Pi Coral TPU USB Accelerator's performance for robotics and deep learning.
+- Nyarko's background in machine learning, computer vision segmentation, and classification, especially in real-time segmentation for automated navigation, sets him apart as a mentor and innovator in the field. 
 
 
